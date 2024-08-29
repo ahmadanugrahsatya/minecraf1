@@ -1,0 +1,5 @@
+mythicmobs-skill-id: Gravitational_Boost
+name: Gravitational Boost
+cooldown: 0
+passive-type: TIMER
+timer: 5

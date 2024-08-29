@@ -1,0 +1,634 @@
+cosmetics:
+  hat1:
+    permission: cosmetics.hat1
+    item:
+      display: '&bAjul Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6Ragnarok Is Real!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 1
+    colored: false
+    type: HAT
+    overlaps: true
+  hat2:
+    permission: cosmetics.hat2
+    item:
+      display: '&bMaji Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6Ragnarok Is Real!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 2
+    colored: false
+    type: HAT
+    overlaps: true
+  hat3:
+    permission: cosmetics.hat3
+    item:
+      display: '&bIkkan Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6Rawr!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 3
+    colored: false
+    type: HAT
+    overlaps: true
+  hat4:
+    permission: cosmetics.hat4
+    item:
+      display: '&bOmend Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6Ragnarok Is Real!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 4
+    colored: false
+    type: HAT
+    overlaps: true
+  hat5:
+    permission: cosmetics.hat5
+    item:
+      display: '&bKaira Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6Ragnarok Is Real!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 5
+    colored: false
+    type: HAT
+    overlaps: true
+  hat6:
+    permission: cosmetics.hat6
+    item:
+      display: '&bUbi Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6Ragnarok Is Real!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 6
+    colored: false
+    type: HAT
+    overlaps: true
+  hat7:
+    permission: cosmetics.hat7
+    item:
+      display: '&bMisterius Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6The Purge Is Real!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 7
+    colored: false
+    type: HAT
+    overlaps: true
+  hat8:
+    permission: cosmetics.hat8
+    item:
+      display: '&bGempita Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6Ragnarok Is Real!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 8
+    colored: false
+    type: HAT
+    overlaps: true
+  hat9:
+    permission: cosmetics.hat9
+    item:
+      display: '&bAwan Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6Revenge Of Rokkva!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 9
+    colored: false
+    type: HAT
+    overlaps: true
+  hat10:
+    permission: cosmetics.hat10
+    item:
+      display: '&bFebri Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6Revenge Of Rokkva!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10
+    colored: false
+    type: HAT
+    overlaps: true
+  hat11:
+    permission: cosmetics.hat11
+    item:
+      display: '&bGarox Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6Revenge Of Rokkva!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 11
+    colored: false
+    type: HAT
+    overlaps: true
+  hat12:
+    permission: cosmetics.hat12
+    item:
+      display: '&bIkkan Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6Revenge Of Rokkva!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 12
+    colored: false
+    type: HAT
+    overlaps: true
+  hat13:
+    permission: cosmetics.hat13
+    item:
+      display: '&bIndra Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6Revenge Of Rokkva!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 13
+    colored: false
+    type: HAT
+    overlaps: true
+  hat14:
+    permission: cosmetics.hat14
+    item:
+      display: '&bTirta Mask'
+      material: COAL
+      lore:
+      - ''
+      - '&6Revenge Of Rokkva!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 14
+    colored: false
+    type: HAT
+    overlaps: true
+  hat15:
+    permission: cosmetics.hat15
+    item:
+      display: '&bUbi Horn'
+      material: COAL
+      lore:
+      - ''
+      - '&6Topeng Kontol'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 15
+    colored: false
+    type: HAT
+    overlaps: true
+  hat16:
+    permission: cosmetics.hat16
+    item:
+      display: '&bLeviatan Horn'
+      material: COAL
+      lore:
+      - ''
+      - '&6Topeng Kontol'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 16
+    colored: false
+    type: HAT
+    overlaps: true
+  hat17:
+    permission: cosmetics.hat17
+    item:
+      display: '&bDemon Aspect'
+      material: COAL
+      lore:
+      - ''
+      - '&6Topeng Kontol'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 17
+    colored: false
+    type: HAT
+    overlaps: true
+  hat18:
+    permission: cosmetics.hat18
+    item:
+      display: '&bMata Aspect'
+      material: COAL
+      lore:
+      - ''
+      - '&6Topeng Kontol'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 18
+    colored: false
+    type: HAT
+    overlaps: true
+  hat19:
+    permission: cosmetics.hat19
+    item:
+      display: '&bPurge'
+      material: COAL
+      lore:
+      - ''
+      - '&6Topeng Kontol'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 19
+    colored: false
+    type: HAT
+    overlaps: true
+  hat20:
+    permission: cosmetics.hat20
+    item:
+      display: '&bBelo'
+      material: COAL
+      lore:
+      - ''
+      - '&6Topeng Kontol'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 20
+    colored: false
+    type: HAT
+    overlaps: true
+  hat21:
+    permission: cosmetics.hat21
+    item:
+      display: '&bMata Satan'
+      material: COAL
+      lore:
+      - ''
+      - '&6Topeng Kontol'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 21
+    colored: false
+    type: HAT
+    overlaps: true
+  hat22:
+    permission: cosmetics.hat22
+    item:
+      display: '&bPeci Tinggi'
+      material: COAL
+      lore:
+      - ''
+      - '&6Topeng Kontol'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 22
+    colored: false
+    type: HAT
+    overlaps: true
+  hat23:
+    permission: cosmetics.hat23
+    item:
+      display: '&bNova Ears'
+      material: COAL
+      lore:
+      - ''
+      - '&6look the ears'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 23
+    colored: false
+    type: HAT
+    overlaps: true
+  hat24:
+    permission: cosmetics.hat24
+    item:
+      display: '&bMichan Ears'
+      material: COAL
+      lore:
+      - ''
+      - '&6A cute ears'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 24
+    colored: false
+    type: HAT
+    overlaps: true
+  hat25:
+    permission: cosmetics.hat25
+    item:
+      display: '&bNoya Hornn'
+      material: COAL
+      lore:
+      - ''
+      - '&6shinee'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 25
+    colored: false
+    type: HAT
+    overlaps: true
+  hat26:
+    permission: cosmetics.hat26
+    item:
+      display: '&bLNM'
+      material: COAL
+      lore:
+      - ''
+      - '&6dimension mask'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 26
+    colored: false
+    type: HAT
+    overlaps: true
+  hat27:
+    permission: cosmetics.hat27
+    item:
+      display: '&bMaji2'
+      material: COAL
+      lore:
+      - ''
+      - '&6wtf are you'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 27
+    colored: false
+    type: HAT
+    overlaps: true
+  hat28:
+    permission: cosmetics.hat28
+    item:
+      display: '&bBeelzebub'
+      material: COAL
+      lore:
+      - ''
+      - '&6gluttony'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 28
+    colored: false
+    type: HAT
+    overlaps: true
+  hat29:
+    permission: cosmetics.hat29
+    item:
+      display: '&bGRRRR!'
+      material: COAL
+      lore:
+      - ''
+      - '&6wrath'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 29
+    colored: false
+    type: HAT
+    overlaps: true
+  hat30:
+    permission: cosmetics.hat30
+    item:
+      display: '&bWrath Horn!'
+      material: COAL
+      lore:
+      - ''
+      - '&6P GEPREK'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 30
+    colored: false
+    type: HAT
+    overlaps: true
+  hat32:
+    permission: cosmetics.hat32
+    item:
+      display: '&bBahemoth'
+      material: COAL
+      lore:
+      - ''
+      - '&6Lenathaa'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 32
+    colored: false
+    type: HAT
+    overlaps: true
+  hat33:
+    permission: cosmetics.hat33
+    item:
+      display: '&bKedoy'
+      material: COAL
+      lore:
+      - ''
+      - '&6Lenathaaa'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 33
+    colored: false
+    type: HAT
+    overlaps: true
+  hat34:
+    permission: cosmetics.hat34
+    item:
+      display: '&bEnvy Horn!'
+      material: COAL
+      lore:
+      - ''
+      - '&6Lenathaaa'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 34
+    colored: false
+    type: HAT
+    overlaps: true
+  hat35:
+    permission: cosmetics.hat35
+    item:
+      display: '&bcitem'
+      material: COAL
+      lore:
+      - ''
+      - '&6Lenathaaa'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 35
+    colored: false
+    type: HAT
+    overlaps: true
+  hat36:
+    permission: cosmetics.hat36
+    item:
+      display: '&bGreed Horn!'
+      material: COAL
+      lore:
+      - ''
+      - '&6Lenathaaa'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 36
+    colored: false
+    type: HAT
+    overlaps: true
+  bag1:
+    permission: cosmetics.bag1
+    item:
+      display: '&bwings of angel'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+      - wings of holy angel
+      - '&aLenathaaa'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10010
+    colored: true
+    type: BAG
+  bag2:
+    permission: cosmetics.bag2
+    item:
+      display: '&bBanner backpack'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+      - ''
+      - '&a&k@¿¿??@'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10004
+    colored: true
+    type: BAG
+  wstick1:
+    permission: cosmetics.wstick1
+    item:
+      display: '&bMagic wand'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+      - ''
+      - '&3This is a magic wand'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10001
+    colored: true
+    type: WALKING_STICK
+  wstick2:
+    permission: cosmetics.wstick2
+    item:
+      display: '&bBig Head'
+      material: PLAYER_HEAD
+      lore:
+      - ''
+      - '&3This is a very big head!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10003
+    type: WALKING_STICK
+  balloon1:
+    permission: cosmetics.balloon1
+    item:
+      display: '&bHot air balloon'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+      - ''
+      - '&aThis balloon will fly through the skies!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10000
+    colored: true
+    type: BALLOON
+    space: 1
+    rotation:
+      enabled: false
+      type: RIGHT
+  balloon2:
+    permission: cosmetics.balloon2
+    item:
+      display: '&bHot air balloon'
+      material: LEATHER_HORSE_ARMOR
+      lore:
+      - ''
+      - '&aThis balloon will fly through the skies and rotate!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10000
+    colored: true
+    type: BALLOON
+    space: 1
+    rotation:
+      enabled: true
+      type: RIGHT
+  balloon3:
+    permission: cosmetics.balloon3
+    item:
+      display: '&bBig balloon'
+      material: PLAYER_HEAD
+      texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTNmOWVlZGEzYmEyM2ZlMTQyM2M0MDM2ZTdkZDBhNzQ0NjFkZmY5NmJhZGM1YjJmMmI5ZmFhN2NjMTZmMzgyZiJ9fX0=
+      lore:
+      - ''
+      - '&aThis balloon is very big!!'
+      unbreakable: true
+      glow: false
+      hide-attributes: true
+      modeldata: 10003
+    type: BALLOON
+    space: 3
+    big-head: true
+

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719474464780
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719474606403
+  login: 1719474561877
+  kits:
+    noya: 1719472416087
+money: '0'
+last-account-name: NoyaCraft_
+logoutlocation:
+  world: 409b422b-d992-4a29-8b04-5ac6a4ae779e
+  world-name: world
+  x: -5.6591752523871355
+  y: 63.0
+  z: 136.21245627674284
+  yaw: 172.6424102783203
+  pitch: -4.049988269805908
+lastlocation:
+  world: 409b422b-d992-4a29-8b04-5ac6a4ae779e
+  world-name: world
+  x: -4.5
+  y: 96.0
+  z: -66.5
+  yaw: 4.350000381469727
+  pitch: -0.30000004172325134

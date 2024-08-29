@@ -1,0 +1,19 @@
+zones:
+  Test:
+    name: Test
+    corn1: world,-49.0,109.0,106.0
+    corn2: world,-40.0,103.0,117.0
+    npc: world,-44.52098385431234,103.0625,111.49356090853077,-89.92163,5.549943
+    enter: world,-40.68686977441552,103.0,115.13442740191103,132.82703,5.399941
+    exit: world,-36.87188065792614,103.0,109.75153105900671,-0.9741211,2.6999516
+    balloon: world,-45.572569668474955,105.0,110.43520703242963,-92.62451,8.399975
+    spray:
+      loc: world,-40.0,103.0,111.0
+      face: UP
+    enabled: false
+on_enter:
+  commands:
+  - '[console] say &aThe %player% has entered the wardrobe'
+on_exit:
+  commands:
+  - '[player] say &cThe %player% has come out of the wardrobe'

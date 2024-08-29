@@ -1,0 +1,445 @@
+######## created by samus2002 #########
+  
+flamos_scythe:
+  Id: stone_sword
+  Display: "<gradient:#d40000:#ffd700:#d40000>Sin Of Wrath"
+  Model: 1
+  Lore:
+  - '<gradient:#d40000:#ffd700:#d40000>Doombringer Axe'
+  Unbreakable: true
+  Hide:
+  - ATTRIBUTES
+  Skills:
+  - skill{s=Flame_Slash} @self ~onSwing
+  - skill{s=Inferno_Wheel} @self ~onUse
+  - skill{s=Blazing_Leap} @self ~onUse
+  - skill{s=Inferno_Orbs} @self ~onCrouch
+  - skill{s=Hellfire_Scythe} @self ~onSwing
+  
+flamos_scythe_shiny:
+  Id: stone_sword
+  Display: "<gradient:#ffef99:#ffd700:#d40000>Shiny Scythe of Flamos"
+  Model: 2
+  Lore:
+  - '<gradient:#ffef99:#ffd700:#d40000>A burning scythe used by Flamos'
+  Hide:
+  - ATTRIBUTES
+  Unbreakable: true
+  Skills:
+  - skill{s=Flame_Slash} @self ~onSwing
+  - skill{s=Inferno_Wheel} @self ~onUse
+  - skill{s=Blazing_Leap} @self ~onUse
+  - skill{s=Inferno_Orbs} @self ~onCrouch
+  - skill{s=Hellfire_Scythe} @self ~onSwing
+  
+flamos_head:
+  Id: paper
+  Display: "<gradient:#d40000:#ffd700:#d40000>Head of Flamos"
+  Model: 15
+  Hide:
+  - ATTRIBUTES
+  Unbreakable: true
+  Skills:
+  - skill{s=Fire_Immune_Crucible_Head} @self ~onTimer:10
+  
+flamos_helmet:
+  Id: leather_helmet
+  Display: "<gradient:#d40000:#ffd700:#d40000>Helmet of Flamos"
+  Options:
+    Color: 164,20,20
+  Model: 5
+  Lore:
+  - '<gradient:#d40000:#ffd700:#d40000>A burning helmet worn by Flamos'
+  Hide:
+  - ATTRIBUTES
+  Unbreakable: true
+  Skills:
+  - skill{s=Fire_Immune_Crucible_Helmet} @self ~onTimer:10
+  
+flamos_chestplate:
+  Id: leather_chestplate
+  Display: "<gradient:#d40000:#ffd700:#d40000>Chestplate of Flamos"
+  Options:
+    Color: 164,20,20
+  Model: 5
+  Lore:
+  - '<gradient:#d40000:#ffd700:#d40000>A burning chestplate worn by Flamos'
+  Hide:
+  - ATTRIBUTES
+  Unbreakable: true
+  Skills:
+  - skill{s=Fire_Immune_Crucible_Head} @self ~onTimer:10
+  - skill{s=Fire_Immune_Crucible_Helmet} @self ~onTimer:10
+  
+flamos_leggings:
+  Id: leather_leggings
+  Display: "<gradient:#d40000:#ffd700:#d40000>Leggings of Flamos"
+  Options:
+    Color: 164,20,20
+  Model: 5
+  Lore:
+  - '<gradient:#d40000:#ffd700:#d40000>A burning leggings worn by Flamos'
+  Hide:
+  - ATTRIBUTES
+  Unbreakable: true
+  Skills:
+  - skill{s=Fire_Immune_Crucible_Head} @self ~onTimer:10
+  - skill{s=Fire_Immune_Crucible_Helmet} @self ~onTimer:10
+  
+flamos_boots:
+  Id: leather_boots
+  Display: "<gradient:#d40000:#ffd700:#d40000>Boots of Flamos"
+  Options:
+    Color: 164,20,20
+  Model: 5
+  Lore:
+  - '<gradient:#d40000:#ffd700:#d40000>Burning boots worn by Flamos'
+  Hide:
+  - ATTRIBUTES
+  Unbreakable: true
+  Skills:
+  - skill{s=Fire_Immune_Crucible_Head} @self ~onTimer:10
+  - skill{s=Fire_Immune_Crucible_Helmet} @self ~onTimer:10
+  
+doombringer_axe_blaze_leap_1:
+  Id: paper
+  Display: "&6"
+  Model: 1
+  Hide:
+  - ATTRIBUTES
+
+doombringer_axe_blaze_leap_2:
+  Id: paper
+  Display: "&6"
+  Model: 2
+  Hide:
+  - ATTRIBUTES
+ 
+doombringer_axe_blaze_leap_3:
+  Id: paper
+  Display: "&6"
+  Model: 3
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_blaze_leap_4:
+  Id: paper
+  Display: "&6"
+  Model: 4
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_blaze_leap_5:
+  Id: paper
+  Display: "&6"
+  Model: 5
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_blaze_leap_6:
+  Id: paper
+  Display: "&6"
+  Model: 6
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_blaze_leap_7:
+  Id: paper
+  Display: "&6"
+  Model: 7
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_flame_slash_1:
+  Id: paper
+  Display: "&6"
+  Model: 8
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_flame_slash_2:
+  Id: paper
+  Display: "&6"
+  Model: 9
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_flame_slash_3:
+  Id: paper
+  Display: "&6"
+  Model: 10
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_flame_slash_4:
+  Id: paper
+  Display: "&6"
+  Model: 11
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_flame_slash_5:
+  Id: paper
+  Display: "&6"
+  Model: 12
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_flame_slash_6:
+  Id: paper
+  Display: "&6"
+  Model: 13
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_flame_slash_7:
+  Id: paper
+  Display: "&6"
+  Model: 14
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_hellfire_slash_1:
+  Id: paper
+  Display: "&6"
+  Model: 15
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_hellfire_slash_2:
+  Id: paper
+  Display: "&6"
+  Model: 16
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_hellfire_slash_3:
+  Id: paper
+  Display: "&6"
+  Model: 17
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_hellfire_slash_4:
+  Id: paper
+  Display: "&6"
+  Model: 18
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_hellfire_slash_5:
+  Id: paper
+  Display: "&6"
+  Model: 19
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_hellfire_slash_6:
+  Id: paper
+  Display: "&6"
+  Model: 20
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_hellfire_slash_7:
+  Id: paper
+  Display: "&6"
+  Model: 21
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_inferno_orb:
+  Id: paper
+  Display: "&6"
+  Model: 23
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_inferno_wheel_1:
+  Id: paper
+  Display: "&6"
+  Model: 24
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_inferno_wheel_2:
+  Id: paper
+  Display: "&6"
+  Model: 25
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_inferno_wheel_3:
+  Id: paper
+  Display: "&6"
+  Model: 26
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_inferno_wheel_4:
+  Id: paper
+  Display: "&6"
+  Model: 27
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_inferno_wheel_5:
+  Id: paper
+  Display: "&6"
+  Model: 28
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_inferno_wheel_6:
+  Id: paper
+  Display: "&6"
+  Model: 29
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_inferno_wheel_7:
+  Id: paper
+  Display: "&6"
+  Model: 30
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_inferno_wheel_8:
+  Id: paper
+  Display: "&6"
+  Model: 31
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_inferno_wheel_9:
+  Id: paper
+  Display: "&6"
+  Model: 32
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_inferno_wheel_10:
+  Id: paper
+  Display: "&6"
+  Model: 33
+  Hide:
+  - ATTRIBUTES
+
+doombringer_axe_charge_1:
+  Id: paper
+  Display: "&6"
+  Model: 34
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_charge_2:
+  Id: paper
+  Display: "&6"
+  Model: 35
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_charge_3:
+  Id: paper
+  Display: "&6"
+  Model: 36
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_charge_4:
+  Id: paper
+  Display: "&6"
+  Model: 37
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_charge_5:
+  Id: paper
+  Display: "&6"
+  Model: 38
+  Hide:
+  - ATTRIBUTES
+
+doombringer_axe_warrior_slash_1:
+  Id: paper
+  Display: "&6"
+  Model: 39
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_warrior_slash_2:
+  Id: paper
+  Display: "&6"
+  Model: 40
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_warrior_slash_3:
+  Id: paper
+  Display: "&6"
+  Model: 41
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_warrior_slash_4:
+  Id: paper
+  Display: "&6"
+  Model: 42
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_warrior_slash_5:
+  Id: paper
+  Display: "&6"
+  Model: 43
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_warrior_slash_6:
+  Id: paper
+  Display: "&6"
+  Model: 44
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_warrior_slash_7:
+  Id: paper
+  Display: "&6"
+  Model: 45
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_whirlwind_1:
+  Id: paper
+  Display: "&6"
+  Model: 46
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_whirlwind_2:
+  Id: paper
+  Display: "&6"
+  Model: 47
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_whirlwind_3:
+  Id: paper
+  Display: "&6"
+  Model: 48
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_whirlwind_4:
+  Id: paper
+  Display: "&6"
+  Model: 49
+  Hide:
+  - ATTRIBUTES
+  
+doombringer_axe_whirlwind_5:
+  Id: paper
+  Display: "&6"
+  Model: 50
+  Hide:
+  - ATTRIBUTES

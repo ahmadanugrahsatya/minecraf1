@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721106983574
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721398119260
+  login: 1721397233839
+  kits:
+    noya: 1719472315987
+money: '0'
+last-account-name: angga48
+logoutlocation:
+  world: e6a7fd56-ecf7-4432-85bf-a6795a59ba44
+  world-name: world
+  x: -1282.2720479058196
+  y: -48.9375
+  z: -474.8111717387159
+  yaw: 87.46942138671875
+  pitch: 34.7996940612793
+lastlocation:
+  world: e6a7fd56-ecf7-4432-85bf-a6795a59ba44
+  world-name: world
+  x: 32.61591160094286
+  y: 91.0
+  z: 30.6394850705306
+  yaw: -43.53470993041992
+  pitch: 3.900330066680908
+last-message-reply-recipient: true
+homes:
+  home:
+    world: e6a7fd56-ecf7-4432-85bf-a6795a59ba44
+    world-name: world
+    x: -1276.5633163973573
+    y: -26.0
+    z: -477.03083937942057
+    yaw: -102.58145141601562
+    pitch: 28.650001525878906

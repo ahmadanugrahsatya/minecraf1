@@ -1,0 +1,46 @@
+uuid: 89c4d089-a5f6-39d3-b5e7-b8212a658f16
+skills:
+  auraskills/farming:
+    level: 0
+    xp: 0.0
+  auraskills/enchanting:
+    level: 0
+    xp: 0.0
+  auraskills/fighting:
+    level: 5
+    xp: 188.29999999999936
+  auraskills/excavation:
+    level: 0
+    xp: 8.300000000000002
+  auraskills/defense:
+    level: 8
+    xp: 3252.2332664668756
+  auraskills/archery:
+    level: 1
+    xp: 19.0
+  auraskills/foraging:
+    level: 0
+    xp: 2.4000000000000004
+  auraskills/fishing:
+    level: 0
+    xp: 0.0
+  auraskills/agility:
+    level: 3
+    xp: 670.9617999999999
+  auraskills/alchemy:
+    level: 7
+    xp: 3542.0
+  auraskills/mining:
+    level: 0
+    xp: 0.0
+mana: 44.0
+action_bar:
+  idle: true
+stat_modifiers:
+  '0':
+    name: AbilityModifier-WiseEffect
+    stat: auraskills/wisdom
+    value: 3.0
+ability_data:
+  auraskills/first_strike:
+    counter: 6

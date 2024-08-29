@@ -1,0 +1,292 @@
+info:
+  namespace: magiccosmetics
+items:
+  ajul:
+    display_name: Ajul Mark
+    permission: cosmetic.ajul
+    resource:
+      material: COAL
+      model_id: 1
+      generate: false
+      model_path: item/topeng/ajul
+  maji:
+    display_name: Maji Mark
+    permission: cosmetic.maji
+    resource:
+      material: COAL
+      model_id: 2
+      generate: false
+      model_path: item/topeng/maji
+  ikan:
+    display_name: Ikkan Mark
+    permission: cosmetic.ikan
+    resource:
+      material: COAL
+      model_id: 3
+      generate: false
+      model_path: item/topeng/ikan
+  omend:
+    display_name: Omend Mark
+    permission: cosmetic.omend
+    resource:
+      material: COAL
+      model_id: 4
+      generate: false
+      model_path: item/topeng/omend
+  kaira:
+    display_name: Kaira Mark
+    permission: cosmetic.kaira
+    resource:
+      material: COAL
+      model_id: 5
+      generate: false
+      model_path: item/topeng/ragnarok
+  ubi:
+    display_name: Ubi Mark
+    permission: cosmetic.ubi
+    resource:
+      material: COAL
+      model_id: 6
+      generate: false
+      model_path: item/topeng/ubi
+  misterius:
+    display_name: Misterius Mark
+    permission: cosmetic.misterius
+    resource:
+      material: COAL
+      model_id: 7
+      generate: false
+      model_path: item/topeng/misterius
+  gempita:
+    display_name: Gempita Mark
+    permission: cosmetic.gempita
+    resource:
+      material: COAL
+      model_id: 8
+      generate: false
+      model_path: item/topeng/gempita
+  awan:
+    display_name: Awan Mark
+    permission: cosmetic.awan
+    resource:
+      material: COAL
+      model_id: 9
+      generate: false
+      model_path: item/topeng/awan
+  febri:
+    display_name: Febri Mark
+    permission: cosmetic.febri
+    resource:
+      material: COAL
+      model_id: 10
+      generate: false
+      model_path: item/topeng/febri
+  garox:
+    display_name: Garox Mark
+    permission: cosmetic.garox
+    resource:
+      material: COAL
+      model_id: 11
+      generate: false
+      model_path: item/topeng/garox
+  ikan1:
+    display_name: Ikkan Mark
+    permission: cosmetic.ikan1
+    resource:
+      material: COAL
+      model_id: 12
+      generate: false
+      model_path: item/topeng/ikan1
+  indra:
+    display_name: Indra Mark
+    permission: cosmetic.indra
+    resource:
+      material: COAL
+      model_id: 13
+      generate: false
+      model_path: item/topeng/indra
+  tirta:
+    display_name: Tirta Mark
+    permission: cosmetic.tirta
+    resource:
+      material: COAL
+      model_id: 14
+      generate: false
+      model_path: item/topeng/tirta
+  ubi1:
+    display_name: Ubi Horn
+    permission: cosmetic.ubi1
+    resource:
+      material: COAL
+      model_id: 15
+      generate: false
+      model_path: item/topeng/tanduk_eles
+  leviatan:
+    display_name: Leviatan Horn
+    permission: cosmetic.leviatan
+    resource:
+      material: COAL
+      model_id: 16
+      generate: false
+      model_path: item/topeng/tanduk_leviatan
+  demon_aspect:
+    display_name: Demon Aspect
+    permission: cosmetic.leviatan
+    resource:
+      material: COAL
+      model_id: 17
+      generate: false
+      model_path: item/topeng/demon_aspect
+  topeng_mata_aspect:
+    display_name: Mata Aspect
+    permission: cosmetic.ajul1
+    resource:
+      material: COAL
+      model_id: 18
+      generate: false
+      model_path: item/topeng/topeng_mata_aspect
+  purge:
+    display_name: purge
+    permission: cosmetic.purge
+    resource:
+      material: COAL
+      model_id: 19
+      generate: false
+      model_path: item/topeng/purge
+  belo:
+    display_name: belo
+    permission: cosmetic.indra1
+    resource:
+      material: COAL
+      model_id: 20
+      generate: false
+      model_path: item/topeng/mata_indra
+  mata_satan:
+    display_name: Mata Satan
+    permission: cosmetic.satan
+    resource:
+      material: COAL
+      model_id: 21
+      generate: false
+      model_path: item/topeng/mata
+  peci_tinggi:
+    display_name: Peci Tinggi
+    permission: cosmetic.peci
+    resource:
+      material: COAL
+      model_id: 22
+      generate: false
+      model_path: item/topeng/peci_tinggi
+  nova_ears:
+    display_name: nova
+    permission: cosmetic.nova
+    resource:
+      material: COAL
+      model_id: 31
+      generate: false
+      model_path: item/topeng/nova_ears
+  michan_ears:
+    display_name: michan
+    permission: cosmetic.michan
+    resource:
+      material: COAL
+      model_id: 24
+      generate: false
+      model_path: item/topeng/michan_ears
+  noya:
+    display_name: noya
+    permission: cosmetic.noya
+    resource:
+      material: COAL
+      model_id: 25
+      generate: false
+      model_path: item/topeng/noya
+  kamen_rider:
+    display_name: Kamen Rider
+    permission: cosmetic.kamen
+    resource:
+      material: COAL
+      model_id: 26
+      generate: false
+      model_path: item/topeng/kamen_rider
+  kepala_catur:
+    display_name: Kepala Catur
+    permission: cosmetic.catur
+    resource:
+      material: COAL
+      model_id: 27
+      generate: false
+      model_path: item/topeng/kepala_catur
+  dezibabz:
+    display_name: beelzebub
+    permission: cosmetic.beelzebub
+    resource:
+      material: COAL
+      model_id: 28
+      generate: false
+      model_path: item/topeng/dezibabz
+  ya_satan:
+    display_name: satan grr
+    permission: cosmetic.catan
+    resource:
+      material: COAL
+      model_id: 29
+      generate: false
+      model_path: item/topeng/commander_horn
+  ubi_horn:
+    display_name: si imut
+    permission: cosmetic.ubih
+    resource:
+      material: COAL
+      model_id: 30
+      generate: false
+      model_path: item/topeng/tanduk_grr
+  mata_ajul:
+    display_name: mata ajul
+    permission: cosmetic.ajul2
+    resource:
+      material: COAL
+      model_id: 32
+      generate: false
+      model_path: item/topeng/mata_ajul
+  kedoy:
+    display_name: kedoy
+    permission: cosmetic.kedoy
+    resource:
+      material: COAL
+      model_id: 33
+      generate: false
+      model_path: item/topeng/kedoy
+  true_leviathan:
+    display_name: true leviathan
+    permission: cosmetic.leviathan2
+    resource:
+      material: COAL
+      model_id: 34
+      generate: false
+      model_path: item/topeng/true_leviathan
+  citem:
+    display_name: citem
+    permission: cosmetic.citem
+    resource:
+      material: COAL
+      model_id: 35
+      generate: false
+      model_path: item/topeng/citem
+  greed_crown:
+    display_name: greed crown
+    permission: cosmetic.gempita2
+    resource:
+      material: COAL
+      model_id: 36
+      generate: false
+      model_path: item/topeng/greed_crown
+  sayap_dewi:
+    display_name: sayap dewi
+    permission: cosmetic.lenatha
+    resource:
+      material: LEATHER_HORSE_ARMOR
+      model_id: 10010
+      generate: false
+      model_path: item/topeng/lenatha
+# Created and Remake By Lenathaaa #

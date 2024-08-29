@@ -1,0 +1,93 @@
+NULL_HELMET:
+  base:
+    material: LEATHER_HELMET
+    custom-model-data: 2007.0
+    name: <gradient:#c70fd4:#550680:#c70fd4>Helmet of Null
+    displayed-type: <gradient:#c70fd4:#550680:#c70fd4>Void
+    lore:
+    - <gradient:#c70fd4:#550680:#c70fd4>An unknown helmet worn by Null
+    unbreakable: true
+    armor: 6.0
+    dye-color: 148 0 122
+    hide-dye: true
+    set: GRAVITATIONAL_BOOST
+
+NULL_CHESTPLATE:
+  base:
+    material: LEATHER_CHESTPLATE
+    custom-model-data: 2007.0
+    name: <gradient:#c70fd4:#550680:#c70fd4>Chestplate of Null
+    displayed-type: <gradient:#c70fd4:#550680:#c70fd4>Void
+    lore:
+    - <gradient:#c70fd4:#550680:#c70fd4>An unknown chestplate worn by Null
+    unbreakable: true
+    armor: 6.0
+    dye-color: 148 0 122
+    hide-dye: true
+    set: GRAVITATIONAL_BOOST
+
+NULL_LEGGINGS:
+  base:
+    material: LEATHER_LEGGINGS
+    custom-model-data: 2007.0
+    name: <gradient:#c70fd4:#550680:#c70fd4>Leggings of Null
+    displayed-type: <gradient:#c70fd4:#550680:#c70fd4>Void
+    lore:
+    - <gradient:#c70fd4:#550680:#c70fd4>An unknown leggings worn by Null
+    unbreakable: true
+    armor: 6.0
+    dye-color: 148 0 122
+    hide-dye: true
+    set: GRAVITATIONAL_BOOST
+
+NULL_BOOTS:
+  base:
+    material: LEATHER_BOOTS
+    custom-model-data: 2007.0
+    name: <gradient:#c70fd4:#550680:#c70fd4>Boots of Null
+    displayed-type: <gradient:#c70fd4:#550680:#c70fd4>Void
+    lore:
+    - <gradient:#c70fd4:#550680:#c70fd4>Unknown boots worn by Null
+    unbreakable: true
+    armor: 6.0
+    dye-color: 148 0 122
+    hide-dye: true
+    set: GRAVITATIONAL_BOOST
+
+NULL_HEAD:
+  base:
+    material: PAPER
+    custom-model-data: 2091.0
+    name: <gradient:#c70fd4:#550680:#c70fd4>Head of Null
+    displayed-type: <gradient:#c70fd4:#550680:#c70fd4>Void
+    unbreakable: true
+    armor: 6.0
+    hide-dye: true
+    set: GRAVITATIONAL_BOOST
+KIN:
+  base:
+    material: DIAMOND_CHESTPLATE
+    name: darkness chestplate
+    armor: 5000000.0
+    armor-toughness: 1000000.0
+    unbreakable: true
+P:
+  base:
+    material: DIAMOND_LEGGINGS
+    name: darkness leggings
+    armor: 1.0E7
+    armor-toughness: 1000000.0
+    unbreakable: true
+KAU:
+  base:
+    material: DIAMOND_BOOTS
+    name: darkness boots
+    armor: 10000.0
+    armor-toughness: 1000.0
+    unbreakable: true
+STAR:
+  base:
+    material: DIAMOND_HELMET
+    name: darkness helmet
+    unbreakable: true
+    armor: 100000.0

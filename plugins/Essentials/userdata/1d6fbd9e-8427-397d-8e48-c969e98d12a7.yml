@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720318387259
+  login: 1720318379281
+money: '0'
+last-account-name: lorddaud
+logoutlocation:
+  world: b3c72bdb-641b-4726-bdaf-bf58a4358c71
+  world-name: world
+  x: 16.5
+  y: 105.0
+  z: -25.5
+  yaw: -25.350017547607422
+  pitch: 14.550000190734863

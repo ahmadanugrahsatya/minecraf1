@@ -1,0 +1,12 @@
+MIGHTY_THUNDER:
+    name: '&eThunder Set'
+    bonuses:
+        '4':
+            ability-1:
+                type: MIGHTY_THUNDER
+                cooldown: 0
+                mode: TIMER
+    lore-tag:
+    - '&eThunder Set Bonus:'
+    - '&6[4] Attacks and skills have a 30% chance'
+    - '&6to bring down thunder and stun targets'
